@@ -18,4 +18,22 @@ h1 {
     font-style: normal;
 }
   
-  
+header {
+    text-align: center;
+    background-color: green;
+}
+
+nav {
+    text-align: center;
+    background-color: grey;
+}
+
+main {
+    text-align: center;
+    background-color: aliceblue;
+}
+
+footer {
+    text-align: center;
+    background-color: green;
+}
